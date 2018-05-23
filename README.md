@@ -2,7 +2,7 @@
 
 - [Installation](INSTALLATIONS.md)
 - [Concepts](concepts)
-- [Orientation exercises](orientation)
+- [Orientation exercises](orientation/exercises)
 - [Projects](projects)
 - [Style guide](CODING-STANDARDS.md)
 - [Documentation templates](TEMPLATES.md)
