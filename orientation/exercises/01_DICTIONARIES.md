@@ -37,4 +37,4 @@ purchases = [ ( 'GE', 100, '10-sep-2001', 48 ),
       This is the basic relational database join algorithm between two tables.
 
 2. Create a second purchase summary that
-    - [ ] accumulates total investment by ticker symbol.
+    - [x] accumulates total investment by ticker symbol.
