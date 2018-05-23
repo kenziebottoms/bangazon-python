@@ -4,7 +4,7 @@ This is a suggested order for completing the exercises in orientation:
 
 ## Basic collections and classes
 1. [x] [Dictionaries](01-stocks.py)
-1. [Sets](./02_SETS.md)
+1. [x] [Sets](02-cars.py)
 1. [Lists](./03_LISTS.md)
 1. [Tuples](./04_TUPLES.md)
 1. [Classes](./05_CLASSES.md)

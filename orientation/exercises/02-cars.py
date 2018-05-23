@@ -20,3 +20,16 @@ print len(showroom)
 
 showroom.discard('Xterra')
 print len(showroom)
+
+junkyard = {
+    'Toyota Prius',
+    'Ford Windstar'
+}
+
+print 'intersection: ',junkyard & showroom
+
+showroom = junkyard | showroom
+print 'showroom after union: ',showroom
+
+junkyard = junkyard - showroom
+print 'junkyard after subtraction: ',junkyard
