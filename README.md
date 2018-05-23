@@ -1,4 +1,13 @@
-## Orientation
+# Python Orientation
+
+- [Installation](INSTALLATIONS.md)
+- [Concepts](concepts)
+- [Orientation exercises](orientation)
+- [Projects](projects)
+- [Style guide](CODING-STANDARDS.md)
+- [Documentation templates](TEMPLATES.md)
+
+## Introduction
 
 Your first two weeks on the job will be your orientation to the technical languages, tools, and frameworks that you'll be using. You will also be introduced to the processes and procedures that you will need to follow to ensure high communication and high productivity for your team.
 
@@ -13,7 +22,7 @@ Your first two weeks on the job will be your orientation to the technical langua
 1. Structured Query Language (SQL)
 1. Object Relational Mapping (ORM)
 
-# The Python Way
+## The Python Way
 
 - Beautiful is better than ugly.
 - Explicit is better than implicit.

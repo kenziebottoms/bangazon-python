@@ -27,4 +27,3 @@ We will be following the [Python Community's coding guidelines](https://www.pyth
             bar = False
     ```
 5. Import statements on seperate lines.
-
