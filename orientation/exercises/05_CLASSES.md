@@ -2,9 +2,7 @@
 
 ## Instructions
 
-- [ ] Create a class that contains information about employees of a company and define methods to get/set employee name, job title, and start date.
-
-- [ ] Copy this `Company` class into your module.
+- [x] Copy this `Company` class into your module.
     ```py
     class Company(object):
         """This represents a company in which people work"""
@@ -20,6 +18,11 @@
 
         # Add the remaining methods to fill the requirements above
     ```
+
+- [x] Create a class that contains information about employees of a company and define methods to get/set
+    - [x] employee name,
+    - [x] job title,
+    - [x] and start date.
 
 - [ ] Consider the concept of [aggregation](../FND_11_INHERIT_COMPOSE_AGGREGATE.md#aggregation), and modify the `Company` class so that you assign employees to a company.
 
