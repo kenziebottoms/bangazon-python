@@ -8,7 +8,7 @@
 ## Starting code
 
 ```py
-planet_list = ["Mercury", "Mars"]
+planet_list = ['Mercury', 'Mars']
 ```
 
 ## Exercise
