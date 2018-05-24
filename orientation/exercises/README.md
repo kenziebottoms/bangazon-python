@@ -6,7 +6,7 @@ This is a suggested order for completing the exercises in orientation:
 1. [x] [Dictionaries](01-stocks.py)
 1. [x] [Sets](02-cars.py)
 1. [x] [Lists](03-planets.py)
-1. [Tuples](./04_TUPLES.md)
+1. [x] [Tuples](04-zoo.py)
 1. [Classes](./05_CLASSES.md)
 
 ## Intermediate exercises
