@@ -24,6 +24,10 @@
     - [x] job title,
     - [x] and start date.
 
-- [ ] Consider the concept of [aggregation](../FND_11_INHERIT_COMPOSE_AGGREGATE.md#aggregation), and modify the `Company` class so that you assign employees to a company.
+- [x] Consider the concept of [aggregation](../FND_11_INHERIT_COMPOSE_AGGREGATE.md#aggregation), and modify the `Company` class so that you assign employees to a company.
 
-- [ ] Create a company, and three employees, and then assign the employees to the company.
+- [x] Create a company,
+
+- [x] and three employees,
+
+- [x] and then assign the employees to the company.
