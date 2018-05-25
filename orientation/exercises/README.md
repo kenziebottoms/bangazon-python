@@ -13,7 +13,7 @@ This is a suggested order for completing the exercises in orientation:
 1. [x] [Family Dictionary](06-family_dict.py)
 1. [x] [Kill Nickelback](07-nickelback.py)
 1. [x] [RandomSquared](08-random_squared)
-1. [Calculator](./09_TEST_CALCULATOR.md)
+1. [ ] [Calculator](https://github.com/kenziebottoms/py-testing-calc) :upper_arrow_right:
 1. [Animals](./10_TEST_ANIMALS.md)
 
 ## Advanced exercises
