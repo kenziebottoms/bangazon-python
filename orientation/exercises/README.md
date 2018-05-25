@@ -12,7 +12,7 @@ This is a suggested order for completing the exercises in orientation:
 ## Intermediate exercises
 1. [x] [Family Dictionary](06-family_dict.py)
 1. [x] [Kill Nickelback](07-nickelback.py)
-1. [RandomSquared](./08_RANDOMSQUARED.md)
+1. [x] [RandomSquared](08-random_squared)
 1. [Calculator](./09_TEST_CALCULATOR.md)
 1. [Animals](./10_TEST_ANIMALS.md)
 
