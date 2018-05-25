@@ -1,12 +1,5 @@
 # The Family Dictionary
 
-## Setup
-
-```
-mkdir -p ~/workspace/python/exercises/family_dictionary && cd $_
-touch family_dict.py
-```
-
 ## Instructions
 
 - [x] Define a dictionary that contains information about several members of your family. Use the following example as a template.

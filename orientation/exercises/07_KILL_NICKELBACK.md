@@ -9,21 +9,13 @@ small_numbers = [num for num in nums if num < 6]
 
 words = ['big', 'red', 'dog', 'ate', 'his', 'food']
 three_letters_words = [ word.title() for word in words if len(word) == 3 ]
-# len(stringVariable) is equivalent to stringVariable.length in JavaScript
-```
-
-## Setup
-
-```
-mkdir -p ~/workspace/python/exercises/sets && cd $_
-touch nickelback.py
 ```
 
 ## Instructions
 
-1. Define a set that contains tuples. Each tuple should contain two strings:
-    1. The name of an artist
-    1. A song by that artist
+- [x] Define a set that contains tuples. Each tuple should contain two strings:
+    - [x] The name of an artist
+    - [x] A song by that artist
 
     Make sure that some of the songs are from the band Nickelback. You can see a [list of their greatest hits](https://www.amazon.com/Best-Nickelback-1/dp/B00FFERTUK/) on Amazon.
     ```
@@ -35,5 +27,4 @@ touch nickelback.py
         ('Nickelback', 'Animals')
     }
     ```
-2. Using a set comprehension, create a new set that contains all songs that were not performed by Nickelback.
-
+- [x] Using a set comprehension, create a new set that contains all songs that were not performed by Nickelback.
